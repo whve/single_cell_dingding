@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+section-01-cluster/*.Rdata
+section-01-cluster/*.pdf
+section-01-cluster/*.csv
+*.Rdata
+*.pdf
+*.csv
